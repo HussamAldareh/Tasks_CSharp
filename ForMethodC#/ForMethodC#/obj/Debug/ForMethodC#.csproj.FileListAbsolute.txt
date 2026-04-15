@@ -1,0 +1,7 @@
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\bin\Debug\ForMethodC#.exe.config
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\bin\Debug\ForMethodC#.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\bin\Debug\ForMethodC#.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\obj\Debug\ForMethodC#.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\obj\Debug\ForMethodC#.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\obj\Debug\ForMethodC#.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\ForMethodC#\ForMethodC#\obj\Debug\ForMethodC#.pdb
