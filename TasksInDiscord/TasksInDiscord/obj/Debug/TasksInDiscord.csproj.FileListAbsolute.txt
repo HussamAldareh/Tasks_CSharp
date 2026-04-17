@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\bin\Debug\TasksInDiscord.exe.config
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\bin\Debug\TasksInDiscord.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\bin\Debug\TasksInDiscord.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\obj\Debug\TasksInDiscord.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\obj\Debug\TasksInDiscord.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\obj\Debug\TasksInDiscord.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\obj\Debug\TasksInDiscord.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksInDiscord\TasksInDiscord\obj\Debug\TasksInDiscord.exe.config
