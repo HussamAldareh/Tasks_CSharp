@@ -1,0 +1,8 @@
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\bin\Debug\TasksForOOP.exe.config
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\bin\Debug\TasksForOOP.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\bin\Debug\TasksForOOP.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\obj\Debug\TasksForOOP.csproj.AssemblyReference.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\obj\Debug\TasksForOOP.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\obj\Debug\TasksForOOP.exe
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\obj\Debug\TasksForOOP.pdb
+C:\Users\user\OneDrive\Documents\OrangeCSharpTasks\TasksForOOP\TasksForOOP\obj\Debug\TasksForOOP.exe.config
